@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">19-year-old Ukrainian student passionate about Python, currently thriving in Germany</h3>
-
+<h4 align="left">About Me</h4>
 - 🔭 I’m currently working on **Pet-projects in Python, PHP**
 
 - 🌱 I’m currently learning **Python, PHP, CSS, HTML**
