@@ -2,9 +2,11 @@
 <h3 align="center">19-year-old Ukrainian student, currently thriving in Germany</h3>
 <h4 align="left">About Me</h4>
 
-- 🔭 I’m currently working on **API for E-Commerce Clothes-SHop**
+- 🔭 I’m currently working on **API for E-Commerce Clothes-Shop** (url) 
 
 - 🌱 I’m currently learning **Python, Django, Django rest frakework, CSS, HTML**
+
+- ⚡ Want to try/learn in future **C++, Java, MongoDB, Docker, Data Science with Python**
 
 - 🌎 I speak English, German, Ukrainian, Russian
 
