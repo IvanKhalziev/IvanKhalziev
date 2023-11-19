@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, Django, Django rest framework, CSS, HTML**
 
-- ⚡ Want to try/learn in future **C++, Java, MongoDB, Docker, Data Science with Python**
+- ⚡ Want to try/learn in future ** GO, C++, Java, MongoDB, Docker, Data Science with Python**
 
 - 🌎 I speak English, German, Ukrainian, Russian
 
