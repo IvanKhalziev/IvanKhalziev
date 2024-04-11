@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **API for E-Commerce Clothes-Shop** (repo: Kolos_Overview) 
 
-- 🌱 I’m currently learning **Python, Django, DRF, C#, .Net (ASP.NET, WPF, Entity Framework, .NET MAUI)**
+- 🌱 I’m currently learning **Python, Django, DRF, C#, .Net (ASP.NET, WinForms, Entity Framework, .NET MAUI), Microsoft SQL Server**
 
-- ⚡ Want to try/learn in future **GO, C++, Java, Microsoft SQL Server, SSAS, Docker**
+- ⚡ Want to try/learn in future **GO, SSAS, Docker**
 
 - 🌎 I speak English, German, Ukrainian, Russian
 
